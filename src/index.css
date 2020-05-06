@@ -1,0 +1,36 @@
+
+body {
+  margin: 0;
+  font-family: 'open sans', sans-serif;
+  font-size: 16px;
+  
+}
+
+table {
+  width: 40%;
+  border-color: black;
+  border-collapse: separate;
+  text-align: center;
+  margin: auto;
+  
+}
+
+
+tbody td {
+  padding: 2em;
+  border-collapse: separate;
+  border: 1px solid rgb(14, 13, 13);
+}
+
+tbody tr:hover {
+  
+  border: 2px solid black;
+  border-collapse: separate;
+}
+
+
+
+
+
+
+
